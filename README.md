@@ -1,5 +1,6 @@
 <img align="left" src="![image](https://github.com/eKeiran/eKeiran/assets/34791715/d326936a-a7a5-4caa-a616-b0728b4416c1)
-" width="30%" style="display:inline;"><img align="right" src="![image](https://github.com/eKeiran/eKeiran/assets/34791715/6e2df71d-6ada-4400-84d6-6f455e3dfaba)
+" width="30%" style="display:inline;">
+<img align="right" src="![image](https://github.com/eKeiran/eKeiran/assets/34791715/6e2df71d-6ada-4400-84d6-6f455e3dfaba)"
  width="30%" style="display:inline;">
 <br>
 <p align="center">
