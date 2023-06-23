@@ -6,7 +6,8 @@
     <h1 align="center">✩&emsp;Hi! I'm Harkeerat&emsp;✩</h1>
 </p>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E55F7&width=435&lines=I'm+a+full+stack+developer+%F0%9F%92%BB;and+an+Amateur+Astronomer++%F0%9F%94%AD%E2%9C%A8" alt="Typing SVG" /></a>
+    <hr> &emsp;&emsp;&emsp;
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=1000&pause=500&color=7C38F7&center=true&multiline=true&width=435&lines=I'm+a+full+stack+software+developer%F0%9F%92%BB;+and+an+amateur+Astronomer+%F0%9F%94%AD%E2%9C%A8" alt="Typing SVG" /></a></a><hr>
 </p>
 <br>
 <p align="center">
