@@ -11,5 +11,6 @@
 </p>
 <br>
 <p align="center">
-    <a href="https://github.com/eKeiran"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eKeiran&theme=dark&hide=html&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+ <!-- <a href="https://github.com/eKeiran"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=eKeiran&theme=material-palenight&show_icons=true"> -->
+    <a href="https://github.com/eKeiran"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eKeiran&theme=material-palenight&hide=html&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
