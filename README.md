@@ -16,6 +16,8 @@
     <hr>
 </p>
 <br>
+[![An image of @ekeiran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ekeiran)](https://holopin.io/@ekeiran)
+
 <br>
 <p align="center">
         <a align="center" href="https://github.com/eKeiran"><img align="center" width="50%"
