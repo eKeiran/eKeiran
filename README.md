@@ -25,7 +25,7 @@
             src="https://github-readme-stats.vercel.app/api?username=eKeiran&theme=material-palenight&show_icons=true">
             <br><br>
         <a align="center" href="https://github.com/eKeiran"><img align="center" width="50%"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=eKeiran&theme=material-palenight&hide=html, Jupyter Notebook&layout=donut&langs_count=8&bg_color=101010&hide_title=true"></a>
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=eKeiran&theme=material-palenight&hide=Jupyter+Notebook,html&layout=donut&langs_count=8&bg_color=101010&hide_title=true"></a>
         <h3 align="center">Say hi! Connect with me on:</h3>
 </p>
 <p align="center">
